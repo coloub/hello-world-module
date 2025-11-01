@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I created this small "Hello World" program as a first step toward building and publishing software more professionally. My goal with this project was to test my development environment, practice using GitHub, and follow standard documentation practices. Even though this is a very simple program, it is the beginning of a portfolio that will grow over the semester.
 
-{Provide a description of your software}
+This software runs a basic script that prints a welcome message to the screen. It represents the initial setup for future work in mobile development and other programming modules I will complete.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/634CMJnDB2Q)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code as my IDE because of its flexibility and built-in tools for software development.  
+Git was used for version control and to publish my project to a public GitHub repository.
 
-{Describe the programming language that you used}
+Programming Language: Python  
+(I selected Python because it runs easily on any computer and allows me to complete this first milestone quickly.)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* https://github.com
+* https://code.visualstudio.com
+* https://www.python.org
